@@ -206,7 +206,7 @@ justify-content: center;
    }
    .card{
     margin-bottom: 20px;
-    height:15rem;
+    height:max-content;
    }
    .about li a{
     color: #6c757d;
